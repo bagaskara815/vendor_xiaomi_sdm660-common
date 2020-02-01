@@ -789,4 +789,6 @@ PRODUCT_PACKAGES += \
     ims \
     qcrilmsgtunnel \
     WfdCommon \
-    chargeonlymode
+    chargeonlymode \
+    QPerformance \
+    UxPerformance
