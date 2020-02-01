@@ -791,4 +791,6 @@ PRODUCT_PACKAGES += \
     WfdCommon \
     chargeonlymode \
     QPerformance \
-    UxPerformance
+    UxPerformance \
+    com.qualcomm.qti.Performance.xml \
+    com.qualcomm.qti.UxPerformance.xml
