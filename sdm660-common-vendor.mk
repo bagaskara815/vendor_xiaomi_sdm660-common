@@ -591,7 +591,6 @@ PRODUCT_PACKAGES += \
     ims \
     qcrilmsgtunnel \
     WfdCommon \
-    chargeonlymode \
     QPerformance \
     UxPerformance \
     com.qualcomm.qti.Performance.xml \
